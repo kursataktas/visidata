@@ -2,6 +2,7 @@
 
 [![Tests](https://github.com/saulpw/visidata/workflows/visidata-ci-build/badge.svg)](https://github.com/saulpw/visidata/actions/workflows/main.yml)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/saulpw/visidata)
+[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20VisiData%20Guru-006BFF)](https://gurubase.io/g/visidata)
 
 [![discord](https://img.shields.io/discord/880915750007750737?label=discord)](https://visidata.org/chat)
 [![mastodon @visidata@fosstodon.org][2.1]][2]
